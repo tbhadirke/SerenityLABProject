@@ -1,0 +1,5 @@
+com\serenity\junit\MyFirstSerenityTest.class
+com\serenity\testbase\TestBase.class
+com\serenity\junit\CRUD_Test.class
+com\serenity\cucumber\steps\ReusableSteps.class
+com\serenity\framework\SerenityTest\AppTest.class

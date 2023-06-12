@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"CRUD test","This is to get a product","SUCCESS","2023-06-02T11:39:20.7716965+05:30[Asia/Calcutta]","0.0","0.79"
+"My first serenity test","Get data","SUCCESS","2023-06-02T11:39:29.7930867+05:30[Asia/Calcutta]","0.0","0.63"

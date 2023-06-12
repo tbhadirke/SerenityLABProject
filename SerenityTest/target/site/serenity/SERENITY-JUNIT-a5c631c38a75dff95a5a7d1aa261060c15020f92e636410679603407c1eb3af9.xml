@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="0" name="com.serenity.junit.CreateProductDataDrivenTest" skipped="0" tests="4" time="6.41" timestamp="2023-06-03 12:08:30"><testcase classname="com.serenity.junit.CreateProductDataDrivenTest" name="This is to create product using data driven Test approach"/></testsuite>

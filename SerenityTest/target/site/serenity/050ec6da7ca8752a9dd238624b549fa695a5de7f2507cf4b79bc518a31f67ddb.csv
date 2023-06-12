@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"CRUD test","This is to create a product","SUCCESS","2023-06-02T11:39:16.3178986+05:30[Asia/Calcutta]","0.0","4.4"
+"CRUD test","This is to get a product","SUCCESS","2023-06-02T11:39:20.7716965+05:30[Asia/Calcutta]","0.0","0.79"
+"CRUD test","This is to update a product","SUCCESS","2023-06-02T11:39:21.5719996+05:30[Asia/Calcutta]","0.0","1.33"
+"CRUD test","This is to delete a product","SUCCESS","2023-06-02T11:39:22.9052309+05:30[Asia/Calcutta]","0.0","1.51"
+"My first serenity test","Get data","SUCCESS","2023-06-02T11:39:29.7930867+05:30[Asia/Calcutta]","0.0","0.63"
