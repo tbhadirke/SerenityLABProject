@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: SerenityTest2
+Bundle-SymbolicName: SerenityTest2
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-17
+Automatic-Module-Name: SerenityTest2
+Export-Package: com.serenity.cucumber,
+ com.serenity.cucumber.steps,
+ com.serenity.framework.SerenityTest,
+ com.serenity.testbase,
+ com.serenity.utility

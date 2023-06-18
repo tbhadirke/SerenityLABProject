@@ -1,0 +1,4 @@
+com\serenity\framework\SerenityTest\App.class
+com\serenity\framework\SerenityTest\RatingPOJO.class
+com\serenity\framework\SerenityTest\CreateProductsPOJO.class
+com\serenity\framework\SerenityTest\GetProductPOJO.class

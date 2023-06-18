@@ -1,0 +1,5 @@
+com\serenity\framework\SerenityTest\ReusableSteps.class
+com\serenity\utility\ReusableSpecifications.class
+com\serenity\cucumber\steps\SerenityCucumberSteps.class
+com\serenity\testbase\TestBase.class
+com\serenity\cucumber\SrenityCucumberStepDefination.class
